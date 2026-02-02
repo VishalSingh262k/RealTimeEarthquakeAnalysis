@@ -2,6 +2,8 @@
 
 A real-time data visualization dashboard built with [Streamlit](https://streamlit.io/) that fetches and displays earthquake data from the USGS (United States Geological Survey) API. The application provides geospatial analytics, statistical summaries, and interactive charts to explore seismic activity.
 
+The app is deployed on Streamlit Community Cloud on this link: https://realtimeearthquakeanalysis.streamlit.app/
+
 ## Features
 
 - **Real-Time Data**: Fetches the latest earthquake data based on user-defined criteria.
@@ -24,7 +26,7 @@ A real-time data visualization dashboard built with [Streamlit](https://streamli
 
 ## Installation
 
-1.  **Clone the repository** (if applicable):
+1.  **Clone the repository** (if required):
     ```bash
     git clone git@github.com:VishalSingh262k/RealTimeEarthquakeAnalysis.git
     cd RealTimeEarthquakeAnalysis
